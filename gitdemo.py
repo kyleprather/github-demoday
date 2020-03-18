@@ -1,3 +1,5 @@
 #This is a demoday file
-#It doesnt have code yet
-#This is the first version
+#It has some code
+#This is the second version
+
+print("Kyle is the bomb.com")
